@@ -4,7 +4,8 @@ abai;-3
 abaktinal;0
 abdi;-3
 abid;3
-abis;-2
+abis;-1
+tes;1
 abnormalitas;-4
 abolisi;-3
 abon;-4
@@ -118,7 +119,6 @@ akut;-5
 alai belai;-3
 alaihi salam;2
 alaikum;2
-alam;-1
 alami;2
 alamiah;2
 alangkah;-2
@@ -126,7 +126,7 @@ alas;-4
 alat kelamin;-3
 alat negara;-3
 alat vital;-2
-alay;-4
+alay;-1
 albinoid;0
 album;-2
 alegoris;0
@@ -256,12 +256,11 @@ anisotropis;0
 anja anja;0
 anjak;-3
 anjay;-3
-anjem;1
 anjer;-3
 anjg;-5
 anjing;-4
 anjing tanah;-5
-anjir;-3
+anjir;-1
 anjis;-1
 anjlok;-4
 anjung;4
@@ -335,7 +334,6 @@ arketipe;3
 armada;-5
 aromatik;2
 aron;0
-arsip;-5
 arsitektur;2
 artetis;0
 arti;3
@@ -703,6 +701,7 @@ bengkak;-4
 bengkak hati;-3
 bengkerap;-4
 bengkok;-4
+bengong;-1
 bengok;-4
 benguk;-2
 bening;-4
@@ -899,7 +898,6 @@ bos;3
 bosan;-3
 bosman;-4
 bosun;-4
-bot;-2
 boto;2
 boyak;-5
 brengsek;-5
@@ -1070,7 +1068,7 @@ caplok;-3
 carak;-3
 caran;-4
 care;2
-cari;3
+cari;-2
 cari akal;3
 cari ilmu;4
 cari jalan;3
@@ -1103,7 +1101,6 @@ cegah;-5
 cegak;1
 cegar;4
 cegat;-3
-cek;-4
 cekah;-4
 cekak;-3
 cekam;-4
@@ -1255,7 +1252,8 @@ close;-2
 closed;-3
 coba;-1
 coblos;-3
-cocok;4
+cocok;2
+barangkali;-2
 cocor;-3
 coffee;2
 cokelat;0
@@ -1334,7 +1332,7 @@ cuti;3
 dabih;-3
 dadah;-4
 dadak;3
-daftar;-3
+daftar;0
 dagang;3
 dagel;3
 daging;1
@@ -1371,8 +1369,6 @@ dangkung;-3
 dansa;3
 danyang;-4
 dapra;-3
-darah;4
-darah;4
 darah dingin;-4
 daras;-5
 darat;-3
@@ -1605,7 +1601,8 @@ dongkel;-3
 dongkol;-4
 dongkrak;-3
 dongok;-5
-donor;3
+donor;1
+darah;1
 dorong;-4
 dosa;-4
 down;-3
@@ -1664,7 +1661,7 @@ edentat;0
 edukatif;2
 eek;-5
 efek;3
-efektif;5
+efektif;3
 efisien;2
 egalitarian;0
 egaliter;1
@@ -1929,7 +1926,6 @@ gabakal;-2
 gabal;-5
 gabas;-5
 gaberani;-1
-gabole;-2
 gabuk;-4
 gabung;2
 gabutuh;-3
@@ -1953,6 +1949,7 @@ gaje;-3
 gajih;-2
 galaba;-5
 galak;-4
+galau;-2
 galak panas;-3
 galas;-4
 gali;-3
@@ -2607,10 +2604,9 @@ impresif;2
 impresionistik;0
 impulsif;1
 imun;1
-imut;-1
-imut imut;-1
-inai;-4
 inap;2
+muter;-1
+flop;-5
 inap jenazah;-3
 inaugurasi;-3
 inayat;4
@@ -2920,7 +2916,6 @@ jitu;2
 jiwa;3
 jobak;-3
 jodoh;-3
-join;1
 jolak;-3
 joli;1
 jolok;-3
@@ -3042,7 +3037,6 @@ kanjang;4
 kanjeng sultan;4
 kanji;-3
 kanonis;2
-kantin;-4
 kantong;1
 kantong kering;-4
 kantong perut;-5
@@ -3109,7 +3103,7 @@ kawan;-3
 kawi;1
 kawin;-3
 kawula;-3
-kaya;2
+kaya;1
 kayai;1
 kayangan;-5
 kayun;2
@@ -3236,6 +3230,7 @@ kencang;3
 kencar kencar;-4
 kencing;-3
 kendati;-3
+kendala;-3
 kendur;-3
 kenduri;4
 kenek;1
@@ -3407,7 +3402,6 @@ kir;-4
 kirai;-3
 kirap;-3
 kiri;-3
-kirim;1
 kiruh;0
 kisar;-3
 kisas;3
@@ -3727,7 +3721,7 @@ langking;-4
 langlang;4
 langsai;-3
 langsuir;-4
-langsung;3
+langsung;0
 lanjai;0
 lanjung;0
 lanjur;-3
@@ -4031,14 +4025,13 @@ lunak;1
 lunas kapal;2
 luncas;-3
 lunch;3
-luncur;3
 lungkah;0
 lungkang;-4
 lungkum;0
 lungse;0
 luntur;1
 lunyah;-3
-lupa;-2
+lupa;-1
 lupain;1
 luput;-3
 luruh;2
@@ -4099,7 +4092,6 @@ majikan;-3
 maju;2
 majubersama;3
 majuh;1
-makan;1
 makan bawang;-5
 makbul;3
 makelar;-3
@@ -4121,7 +4113,6 @@ maksimal;2
 maksud;3
 mala;0
 malak;-5
-malam;-1
 malang;-5
 malapateka;-3
 malapetaka;-5
@@ -4136,9 +4127,6 @@ malis;0
 malu;-4
 malu malu;1
 malu mata;-4
-mam;-5
-mama;-4
-mamak;2
 mamang;-4
 mambang;-4
 mampat;-3
@@ -4206,7 +4194,7 @@ maskapai;3
 maslahat;2
 massal;1
 master;-1
-masuk;-3
+masuk;-1
 masuk akal;-4
 masygul;3
 masyhur;1
@@ -4258,6 +4246,7 @@ melet;-3
 melit;1
 melodius;1
 meluluhlantakkan;-4
+melunjak;-3
 memble;-3
 memedi;-4
 memejahijaukan;1
@@ -4346,7 +4335,6 @@ mikir;2
 mikro;-3
 mikroanalisis;3
 mikroskopis;0
-milik;3
 militeristis;0
 miliun;-5
 mimpi;2
@@ -4464,7 +4452,7 @@ mulus;4
 mulut;2
 mulut sungai;4
 mumi;-4
-mumpung;-3
+mumpung;0
 mumpuni;2
 muncikari;-5
 munding;-3
@@ -4632,7 +4620,7 @@ nonmiliter;1
 nonpatogenik;0
 nontradisional;0
 nonverbal;0
-normal;1
+normal;0
 normatif;1
 novel;2
 nrima;1
@@ -4716,7 +4704,6 @@ ons;-5
 onyak anyik;-4
 onyok;-3
 oon;-5
-open;3
 operasi;-4
 operasional;1
 operatif;1
@@ -5217,7 +5204,6 @@ plongah plongoh;-3
 plural;0
 pluralistis;0
 plus;1
-poin;2
 pojok;2
 pokeng;0
 poko;-2
@@ -5416,7 +5402,7 @@ purwa;-2
 pusaka;4
 pusang;-5
 pusat;0
-pusing;-4
+pusing;-2
 pusing keling;-5
 pusink;-3
 puspa;4
@@ -5572,7 +5558,6 @@ rayah;-5
 rayap;-3
 rayau;-4
 rayu;-4
-ready;1
 reaksi;2
 reaksioner;3
 real;2
@@ -5824,7 +5809,6 @@ ruit;0
 ruji;3
 rukun;3
 rum;-3
-rumah;3
 rumah tangga;2
 rumbing;-4
 rumi;0
@@ -5907,7 +5891,8 @@ saksama;2
 saksi;1
 sakti;2
 saku;0
-salah;-3
+salah;-1
+satu;1
 salah benang;-1
 salah ketik;-2
 salah ketik;-2
@@ -6632,7 +6617,6 @@ sugih;2
 suguh;2
 sugul;0
 suka;1
-suka ;3
 suka cita;-1
 suka ganggu;-4
 suka hati;-3
@@ -7058,6 +7042,8 @@ terbang pikir;-4
 terbit selera;3
 teriak;-2
 terima;2
+tolong;-2
+ngutek;-5
 terima kasih;0
 terima nyata;-4
 terimakasih;0
@@ -7108,9 +7094,6 @@ tiang pancang;3
 tiara;3
 tidak tahu;-1
 tidakjelasan;-5
-tidur;-3
-tidurin;-2
-tika;-5
 tika pangkai;-4
 tikai;-4
 tikam;-4
@@ -7182,8 +7165,7 @@ toleran;1
 toleransi;-3
 tolok;-3
 tolol;-5
-tolong;1
-tolong;2
+tolong;0
 tonggak;-4
 tongkat;4
 tongkeng;5
